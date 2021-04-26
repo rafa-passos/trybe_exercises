@@ -52,5 +52,6 @@ console.log('Contador de Ímpar: ' + contadori);
 
 
 
+let gosto = 'churrasco';
 
 
